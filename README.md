@@ -8,3 +8,5 @@ This repository contains supporting documentation for the proposed ICRA 2027 wor
 
 ## Documents
 
+- [Invited Speaker Confirmation Emails](./Speaker_Confirmations.pdf)
+- [IEEE RAS TC-HRI Endorsement Letter](./TC_HRI_Endorsement_Letter.pdf)
